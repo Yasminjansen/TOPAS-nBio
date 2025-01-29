@@ -1,0 +1,4 @@
+'#!/bin/bash' 
+'' 
+'export TOPAS_G4_DATA_DIR=~/Applications/GEANT4/G4DATA' 
+'~/Applications/TOPAS/OpenTOPAS-install/bin/topas $1' 
